@@ -1,0 +1,13 @@
+.pe-view {
+    display: flex;
+    flex-direction: column;
+}
+
+.pe-view #pe_label {
+    padding: 10px;
+}
+
+.pe-view #pe_textarea {
+    margin: 10px;
+    height: 100px;
+}
